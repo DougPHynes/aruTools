@@ -1,40 +1,38 @@
+#Annotations, are the rough start and end times of sounds of interest, that can 
+#be marked on acotuic recordings.
+#In this project, annotations are made with Praat on acoustic files collected from BAR-LT sensors.
+#Annotations are saved as TextGrid (.txt) files. 
+#The approach is to read all TextGirds for a given directory (which correspond 
+#to a field site), convert the TextGrids to a dataframe using the function textgrid_to_df,
+#and then mutate, map, and tabularize the data as needed.
 
-#https://github.com/ropensci/phonfieldwork
-library(phonfieldwork)
 
-directory <- "J://acousticData/sandPond/rawData"
+library(phonfieldwork) #https://github.com/ropensci/phonfieldwork
+library(tidyverse)
+library(lubridate) #deals with times and dates
 
+directory <- "J://acousticData/sandPond/rawData" #reading from external hard drive
 
+files <- list.files(directory, pattern = "*.TextGrid", recursive = TRUE, full.names = TRUE) #read all .TextGrids within folder
 
-
-
-#base_output_directory <- "C://Users//HynesD//Desktop//out"
-#textgrid_to_df("J://acousticData/sandPond/rawData/5826/e2Sd128/8604_20210713_every1d6x4hrs [+43.81679-065.83275]/8604_20210713T160000-0300_every1d6x4hrs__+43_81679-065_83275_.TextGrid")
-
-# Get a list of audio files inside the directory
-# (Get-ChildItem is just like ls, or dir)
-#files <- list.files(directory, pattern = "*.wav", recursive = TRUE, full.names = TRUE)
-files <- list.files(directory, pattern = "*.TextGrid", recursive = TRUE, full.names = TRUE)
-
-comList <- lapply(files, textgrid_to_df)
+comList <- lapply(files, textgrid_to_df) 
 
 df <- do.call(rbind, comList)
 
-
 df2 <- df %>% 
-  mutate(date = as_datetime(substr(source, 6, 20)), tz = "ADT") %>%
-  mutate(lat = substr(source, 43, 50)) %>%
-  mutate(lat = str_replace(lat, "_", ".")) %>%
-  mutate(lon = substr(source, 53, 60)) %>%
+  mutate(date = as_datetime(substr(source, 6, 20)), tz = "ADT") %>% #extract datetime from source, i.e., filename
+  mutate(lat = substr(source, 43, 50)) %>% #extract latitude
+  mutate(lat = str_replace(lat, "_", ".")) %>% 
+  mutate(lon = substr(source, 53, 60)) %>% #extract longitude
   mutate(lon = paste0("-",(str_replace(lon, "_", ".")))) %>%
-  mutate(site = group_indices(., lat, lon)) %>%
-  mutate(across(content, toupper)) %>%
+  mutate(site = group_indices(., lat, lon)) %>% #assign unique site numbers 
+  mutate(across(content, toupper)) %>% #capitalize species codes for merging with the official birds species codes list
   group_by(site) %>%
   
   mutate(sppRich =  )
   
-spp_codes <- read_csv("C://Users/HynesD/aruTools/data/IBP-AOS-LIST21.csv")
-spp_codes <- spp_codes %>% select(SPEC, COMMONNAME, SCINAME)
+spp_codes <- read_csv("C://Users/HynesD/aruTools/data/IBP-AOS-LIST21.csv") #birds species codes
+spp_codes <- spp_codes %>% select(SPEC, COMMONNAME, SCINAME) 
 
 
 df3 <- df2 %>% left_join(spp_codes, by = c("content" = "SPEC"))
