@@ -1,0 +1,264 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12173.850702947846 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.2648729281268096 
+            text = "" 
+        intervals [2]:
+            xmin = 3.2648729281268096 
+            xmax = 4.397567810871453 
+            text = "grfr" 
+        intervals [3]:
+            xmin = 4.397567810871453 
+            xmax = 3986.9215525445384 
+            text = "" 
+        intervals [4]:
+            xmin = 3986.9215525445384 
+            xmax = 3989.221059441863 
+            text = "swsp" 
+        intervals [5]:
+            xmin = 3989.221059441863 
+            xmax = 4083.767890357175 
+            text = "" 
+        intervals [6]:
+            xmin = 4083.767890357175 
+            xmax = 4084.4666804390476 
+            text = "alfl" 
+        intervals [7]:
+            xmin = 4084.4666804390476 
+            xmax = 4107.772982888189 
+            text = "" 
+        intervals [8]:
+            xmin = 4107.772982888189 
+            xmax = 4109.536209025006 
+            text = "coye" 
+        intervals [9]:
+            xmin = 4109.536209025006 
+            xmax = 4532.082274907213 
+            text = "" 
+        intervals [10]:
+            xmin = 4532.082274907213 
+            xmax = 4533.894253840441 
+            text = "modo" 
+        intervals [11]:
+            xmin = 4533.894253840441 
+            xmax = 5066.644069237409 
+            text = "" 
+        intervals [12]:
+            xmin = 5066.644069237409 
+            xmax = 5068.724188550889 
+            text = "baww" 
+        intervals [13]:
+            xmin = 5068.724188550889 
+            xmax = 6114.674273479844 
+            text = "" 
+        intervals [14]:
+            xmin = 6114.674273479844 
+            xmax = 6122.270847187984 
+            text = "resq" 
+        intervals [15]:
+            xmin = 6122.270847187984 
+            xmax = 7011.414167380919 
+            text = "" 
+        intervals [16]:
+            xmin = 7011.414167380919 
+            xmax = 7014.176825844135 
+            text = "wiwr" 
+        intervals [17]:
+            xmin = 7014.176825844135 
+            xmax = 7761.630377775685 
+            text = "" 
+        intervals [18]:
+            xmin = 7761.630377775685 
+            xmax = 7763.526983160746 
+            text = "pufi" 
+        intervals [19]:
+            xmin = 7763.526983160746 
+            xmax = 9962.363545472374 
+            text = "" 
+        intervals [20]:
+            xmin = 9962.363545472374 
+            xmax = 9962.806383373096 
+            text = "bhvi" 
+        intervals [21]:
+            xmin = 9962.806383373096 
+            xmax = 9967.249598387256 
+            text = "" 
+        intervals [22]:
+            xmin = 9967.249598387256 
+            xmax = 9968.708119546513 
+            text = "btnw" 
+        intervals [23]:
+            xmin = 9968.708119546513 
+            xmax = 9988.914556690603 
+            text = "" 
+        intervals [24]:
+            xmin = 9988.914556690603 
+            xmax = 9990.86466854699 
+            text = "yrwa" 
+        intervals [25]:
+            xmin = 9990.86466854699 
+            xmax = 10007.546068342637 
+            text = "" 
+        intervals [26]:
+            xmin = 10007.546068342637 
+            xmax = 10008.541437936 
+            text = "pawa" 
+        intervals [27]:
+            xmin = 10008.541437936 
+            xmax = 10046.209319618294 
+            text = "" 
+        intervals [28]:
+            xmin = 10046.209319618294 
+            xmax = 10047.32250846965 
+            text = "pawa" 
+        intervals [29]:
+            xmin = 10047.32250846965 
+            xmax = 10332.56448094947 
+            text = "" 
+        intervals [30]:
+            xmin = 10332.56448094947 
+            xmax = 10334.920866109273 
+            text = "bufr" 
+        intervals [31]:
+            xmin = 10334.920866109273 
+            xmax = 10797.348465305777 
+            text = "" 
+        intervals [32]:
+            xmin = 10797.348465305777 
+            xmax = 10798.433215025894 
+            text = "eawp" 
+        intervals [33]:
+            xmin = 10798.433215025894 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4053.0864945684148 
+            text = "" 
+        intervals [2]:
+            xmin = 4053.0864945684148 
+            xmax = 4053.6634026592633 
+            text = "heth" 
+        intervals [3]:
+            xmin = 4053.6634026592633 
+            xmax = 5972.326088360813 
+            text = "" 
+        intervals [4]:
+            xmin = 5972.326088360813 
+            xmax = 5974.846114960407 
+            text = "unkn" 
+        intervals [5]:
+            xmin = 5974.846114960407 
+            xmax = 6157.97907662263 
+            text = "" 
+        intervals [6]:
+            xmin = 6157.97907662263 
+            xmax = 6167.575252049274 
+            text = "porc" 
+        intervals [7]:
+            xmin = 6167.575252049274 
+            xmax = 7551.261239274223 
+            text = "" 
+        intervals [8]:
+            xmin = 7551.261239274223 
+            xmax = 7552.577564777285 
+            text = "blja" 
+        intervals [9]:
+            xmin = 7552.577564777285 
+            xmax = 7675.547902327581 
+            text = "" 
+        intervals [10]:
+            xmin = 7675.547902327581 
+            xmax = 7676.189814146976 
+            text = "blja" 
+        intervals [11]:
+            xmin = 7676.189814146976 
+            xmax = 8472.180141115738 
+            text = "" 
+        intervals [12]:
+            xmin = 8472.180141115738 
+            xmax = 8473.01706412077 
+            text = "gcki" 
+        intervals [13]:
+            xmin = 8473.01706412077 
+            xmax = 10310.635444998903 
+            text = "" 
+        intervals [14]:
+            xmin = 10310.635444998903 
+            xmax = 10310.838581650609 
+            text = "pawa" 
+        intervals [15]:
+            xmin = 10310.838581650609 
+            xmax = 10844.947263380687 
+            text = "" 
+        intervals [16]:
+            xmin = 10844.947263380687 
+            xmax = 10845.061019905643 
+            text = "recr" 
+        intervals [17]:
+            xmin = 10845.061019905643 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10827.753977483515 
+            text = "" 
+        intervals [2]:
+            xmin = 10827.753977483515 
+            xmax = 10830.077150272986 
+            text = "bear" 
+        intervals [3]:
+            xmin = 10830.077150272986 
+            xmax = 11972.898153578139 
+            text = "" 
+        intervals [4]:
+            xmin = 11972.898153578139 
+            xmax = 11980.966741383945 
+            text = "unkn" 
+        intervals [5]:
+            xmin = 11980.966741383945 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 683.3069247426703 
+            text = "" 
+        intervals [2]:
+            xmin = 683.3069247426703 
+            xmax = 684.4440099156581 
+            text = "1" 
+        intervals [3]:
+            xmin = 684.4440099156581 
+            xmax = 12173.850702947846 
+            text = "" 

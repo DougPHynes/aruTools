@@ -1,0 +1,248 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12173.850702947846 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3231.3461397767605 
+            text = "" 
+        intervals [2]:
+            xmin = 3231.3461397767605 
+            xmax = 3232.3295647912364 
+            text = "alfl" 
+        intervals [3]:
+            xmin = 3232.3295647912364 
+            xmax = 3898.990908901801 
+            text = "" 
+        intervals [4]:
+            xmin = 3898.990908901801 
+            xmax = 3901.0631258965896 
+            text = "heth" 
+        intervals [5]:
+            xmin = 3901.0631258965896 
+            xmax = 3927.239368017823 
+            text = "" 
+        intervals [6]:
+            xmin = 3927.239368017823 
+            xmax = 3929.8735421637407 
+            text = "amro" 
+        intervals [7]:
+            xmin = 3929.8735421637407 
+            xmax = 4495.791095133173 
+            text = "" 
+        intervals [8]:
+            xmin = 4495.791095133173 
+            xmax = 4497.643797615802 
+            text = " modo" 
+        intervals [9]:
+            xmin = 4497.643797615802 
+            xmax = 4568.774495794002 
+            text = "" 
+        intervals [10]:
+            xmin = 4568.774495794002 
+            xmax = 4569.441819910968 
+            text = "grfr" 
+        intervals [11]:
+            xmin = 4569.441819910968 
+            xmax = 4577.6485989949815 
+            text = "" 
+        intervals [12]:
+            xmin = 4577.6485989949815 
+            xmax = 4578.351045433893 
+            text = "alfl" 
+        intervals [13]:
+            xmin = 4578.351045433893 
+            xmax = 4796.247577758016 
+            text = "" 
+        intervals [14]:
+            xmin = 4796.247577758016 
+            xmax = 4799.303219767281 
+            text = "baww" 
+        intervals [15]:
+            xmin = 4799.303219767281 
+            xmax = 4938.324581924205 
+            text = "" 
+        intervals [16]:
+            xmin = 4938.324581924205 
+            xmax = 4941.099245357905 
+            text = "nopa" 
+        intervals [17]:
+            xmin = 4941.099245357905 
+            xmax = 5450.518320911222 
+            text = "" 
+        intervals [18]:
+            xmin = 5450.518320911222 
+            xmax = 5453.995430783834 
+            text = "oven" 
+        intervals [19]:
+            xmin = 5453.995430783834 
+            xmax = 5460.374522507198 
+            text = "" 
+        intervals [20]:
+            xmin = 5460.374522507198 
+            xmax = 5463.017477233602 
+            text = "swsp" 
+        intervals [21]:
+            xmin = 5463.017477233602 
+            xmax = 5607.570604081848 
+            text = "" 
+        intervals [22]:
+            xmin = 5607.570604081848 
+            xmax = 5608.843788252374 
+            text = "bcch" 
+        intervals [23]:
+            xmin = 5608.843788252374 
+            xmax = 6375.368433566917 
+            text = "" 
+        intervals [24]:
+            xmin = 6375.368433566917 
+            xmax = 6375.886487815614 
+            text = "revi" 
+        intervals [25]:
+            xmin = 6375.886487815614 
+            xmax = 7597.534205733387 
+            text = "" 
+        intervals [26]:
+            xmin = 7597.534205733387 
+            xmax = 7599.237638347748 
+            text = "btnw" 
+        intervals [27]:
+            xmin = 7599.237638347748 
+            xmax = 9069.755760389613 
+            text = "" 
+        intervals [28]:
+            xmin = 9069.755760389613 
+            xmax = 9071.775293901484 
+            text = "yrwa" 
+        intervals [29]:
+            xmin = 9071.775293901484 
+            xmax = 9119.51186735316 
+            text = "" 
+        intervals [30]:
+            xmin = 9119.51186735316 
+            xmax = 9121.654328991839 
+            text = "coye" 
+        intervals [31]:
+            xmin = 9121.654328991839 
+            xmax = 9546.278604826051 
+            text = "" 
+        intervals [32]:
+            xmin = 9546.278604826051 
+            xmax = 9552.01342403628 
+            text = "pufi" 
+        intervals [33]:
+            xmin = 9552.01342403628 
+            xmax = 9592.048333320596 
+            text = "" 
+        intervals [34]:
+            xmin = 9592.048333320596 
+            xmax = 9594.78787443235 
+            text = "baww" 
+        intervals [35]:
+            xmin = 9594.78787443235 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4508.124753132715 
+            text = "" 
+        intervals [2]:
+            xmin = 4508.124753132715 
+            xmax = 4509.301350917892 
+            text = "amro" 
+        intervals [3]:
+            xmin = 4509.301350917892 
+            xmax = 6177.349399427806 
+            text = "" 
+        intervals [4]:
+            xmin = 6177.349399427806 
+            xmax = 6178.104529349636 
+            text = "amgo" 
+        intervals [5]:
+            xmin = 6178.104529349636 
+            xmax = 6265.612354000107 
+            text = "" 
+        intervals [6]:
+            xmin = 6265.612354000107 
+            xmax = 6268.457262077698 
+            text = "resq" 
+        intervals [7]:
+            xmin = 6268.457262077698 
+            xmax = 7413.758617008353 
+            text = "" 
+        intervals [8]:
+            xmin = 7413.758617008353 
+            xmax = 7414.59277215456 
+            text = "heth" 
+        intervals [9]:
+            xmin = 7414.59277215456 
+            xmax = 8427.861209309625 
+            text = "" 
+        intervals [10]:
+            xmin = 8427.861209309625 
+            xmax = 8428.4582887827 
+            text = "recr" 
+        intervals [11]:
+            xmin = 8428.4582887827 
+            xmax = 8853.20704717015 
+            text = "" 
+        intervals [12]:
+            xmin = 8853.20704717015 
+            xmax = 8854.164130443167 
+            text = "gcki" 
+        intervals [13]:
+            xmin = 8854.164130443167 
+            xmax = 11534.014706429512 
+            text = "" 
+        intervals [14]:
+            xmin = 11534.014706429512 
+            xmax = 11534.225440361186 
+            text = "recr" 
+        intervals [15]:
+            xmin = 11534.225440361186 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5947.7983166031045 
+            text = "" 
+        intervals [2]:
+            xmin = 5947.7983166031045 
+            xmax = 6000.662748043728 
+            text = "1" 
+        intervals [3]:
+            xmin = 6000.662748043728 
+            xmax = 12173.850702947846 
+            text = "" 

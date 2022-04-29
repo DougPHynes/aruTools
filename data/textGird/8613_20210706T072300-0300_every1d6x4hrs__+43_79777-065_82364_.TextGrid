@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2221.1279818594103 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 48.77278579686406 
+            text = "" 
+        intervals [2]:
+            xmin = 48.77278579686406 
+            xmax = 50.0371893869046 
+            text = "heth" 
+        intervals [3]:
+            xmin = 50.0371893869046 
+            xmax = 207.32487920206944 
+            text = "" 
+        intervals [4]:
+            xmin = 207.32487920206944 
+            xmax = 209.3795350358853 
+            text = "btbw" 
+        intervals [5]:
+            xmin = 209.3795350358853 
+            xmax = 513.1433468412677 
+            text = "" 
+        intervals [6]:
+            xmin = 513.1433468412677 
+            xmax = 515.3560531238386 
+            text = "baww" 
+        intervals [7]:
+            xmin = 515.3560531238386 
+            xmax = 1790.4653396268725 
+            text = "" 
+        intervals [8]:
+            xmin = 1790.4653396268725 
+            xmax = 1794.1180611092118 
+            text = "oven" 
+        intervals [9]:
+            xmin = 1794.1180611092118 
+            xmax = 1834.0135825301616 
+            text = "" 
+        intervals [10]:
+            xmin = 1834.0135825301616 
+            xmax = 1847.6662358276644 
+            text = "recr" 
+        intervals [11]:
+            xmin = 1847.6662358276644 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 673.1955818953104 
+            text = "" 
+        intervals [2]:
+            xmin = 673.1955818953104 
+            xmax = 673.678513822062 
+            text = "gcki" 
+        intervals [3]:
+            xmin = 673.678513822062 
+            xmax = 731.3867788274763 
+            text = "" 
+        intervals [4]:
+            xmin = 731.3867788274763 
+            xmax = 732.431667905357 
+            text = "wwcr" 
+        intervals [5]:
+            xmin = 732.431667905357 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2221.1279818594103 
+            text = "" 

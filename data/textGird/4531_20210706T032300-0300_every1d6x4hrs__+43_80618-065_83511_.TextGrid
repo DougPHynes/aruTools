@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2221.1279818594103 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 576.8292042873562 
+            text = "" 
+        intervals [2]:
+            xmin = 576.8292042873562 
+            xmax = 577.1057925726775 
+            text = "grfr" 
+        intervals [3]:
+            xmin = 577.1057925726775 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 434.41378360605177 
+            text = "" 
+        intervals [2]:
+            xmin = 434.41378360605177 
+            xmax = 437.26747226412937 
+            text = "porc" 
+        intervals [3]:
+            xmin = 437.26747226412937 
+            xmax = 556.6562036362994 
+            text = "" 
+        intervals [4]:
+            xmin = 556.6562036362994 
+            xmax = 557.1742578849966 
+            text = "unkn" 
+        intervals [5]:
+            xmin = 557.1742578849966 
+            xmax = 578.3833670334476 
+            text = "" 
+        intervals [6]:
+            xmin = 578.3833670334476 
+            xmax = 579.0594717308999 
+            text = "porc" 
+        intervals [7]:
+            xmin = 579.0594717308999 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2221.1279818594103 
+            text = "" 

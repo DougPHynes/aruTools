@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12173.850702947846 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 168.09773950631617 
+            text = "" 
+        intervals [2]:
+            xmin = 168.09773950631617 
+            xmax = 169.53775470608454 
+            text = "grfr" 
+        intervals [3]:
+            xmin = 169.53775470608454 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1053.990318957264 
+            text = "" 
+        intervals [2]:
+            xmin = 1053.990318957264 
+            xmax = 1056.9405940006918 
+            text = "dog" 
+        intervals [3]:
+            xmin = 1056.9405940006918 
+            xmax = 10120.85627111798 
+            text = "" 
+        intervals [4]:
+            xmin = 10120.85627111798 
+            xmax = 10123.63093455168 
+            text = "bado" 
+        intervals [5]:
+            xmin = 10123.63093455168 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Age" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 

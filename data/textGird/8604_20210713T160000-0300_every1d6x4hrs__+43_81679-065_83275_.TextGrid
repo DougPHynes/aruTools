@@ -1,0 +1,274 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12173.850702947846 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.681313802427399 
+            text = "" 
+        intervals [2]:
+            xmin = 3.681313802427399 
+            xmax = 4.725717227826317 
+            text = "heth" 
+        intervals [3]:
+            xmin = 4.725717227826317 
+            xmax = 10.41591520068939 
+            text = "" 
+        intervals [4]:
+            xmin = 10.41591520068939 
+            xmax = 11.545851665237358 
+            text = "heth" 
+        intervals [5]:
+            xmin = 11.545851665237358 
+            xmax = 15.011636310282999 
+            text = "" 
+        intervals [6]:
+            xmin = 15.011636310282999 
+            xmax = 16.36215798105746 
+            text = "heth" 
+        intervals [7]:
+            xmin = 16.36215798105746 
+            xmax = 20.863896883639008 
+            text = "" 
+        intervals [8]:
+            xmin = 20.863896883639008 
+            xmax = 21.962321175868905 
+            text = "heth" 
+        intervals [9]:
+            xmin = 21.962321175868905 
+            xmax = 95.66277630052258 
+            text = "" 
+        intervals [10]:
+            xmin = 95.66277630052258 
+            xmax = 96.0481880707353 
+            text = "revi" 
+        intervals [11]:
+            xmin = 96.0481880707353 
+            xmax = 124.41735029671032 
+            text = "" 
+        intervals [12]:
+            xmin = 124.41735029671032 
+            xmax = 125.13311501281967 
+            text = "unkn" 
+        intervals [13]:
+            xmin = 125.13311501281967 
+            xmax = 125.68920913841232 
+            text = "" 
+        intervals [14]:
+            xmin = 125.68920913841232 
+            xmax = 126.18473855725726 
+            text = "amgo" 
+        intervals [15]:
+            xmin = 126.18473855725726 
+            xmax = 744.2023113842889 
+            text = "" 
+        intervals [16]:
+            xmin = 744.2023113842889 
+            xmax = 745.9714947730037 
+            text = "btbw" 
+        intervals [17]:
+            xmin = 745.9714947730037 
+            xmax = 791.9172194196219 
+            text = "" 
+        intervals [18]:
+            xmin = 791.9172194196219 
+            xmax = 793.2002150068579 
+            text = "btbw" 
+        intervals [19]:
+            xmin = 793.2002150068579 
+            xmax = 943.9076914972912 
+            text = "" 
+        intervals [20]:
+            xmin = 943.9076914972912 
+            xmax = 945.6723731471034 
+            text = "btbw" 
+        intervals [21]:
+            xmin = 945.6723731471034 
+            xmax = 1360.0349350200715 
+            text = "" 
+        intervals [22]:
+            xmin = 1360.0349350200715 
+            xmax = 1361.5025019023133 
+            text = "heth" 
+        intervals [23]:
+            xmin = 1361.5025019023133 
+            xmax = 1383.8158582399874 
+            text = "" 
+        intervals [24]:
+            xmin = 1383.8158582399874 
+            xmax = 1385.3374459890601 
+            text = "heth" 
+        intervals [25]:
+            xmin = 1385.3374459890601 
+            xmax = 7987.816682819758 
+            text = "" 
+        intervals [26]:
+            xmin = 7987.816682819758 
+            xmax = 7988.30120047374 
+            text = "bhvi" 
+        intervals [27]:
+            xmin = 7988.30120047374 
+            xmax = 8288.990532134214 
+            text = "" 
+        intervals [28]:
+            xmin = 8288.990532134214 
+            xmax = 8291.732461585156 
+            text = "baww" 
+        intervals [29]:
+            xmin = 8291.732461585156 
+            xmax = 8380.600215576607 
+            text = "" 
+        intervals [30]:
+            xmin = 8380.600215576607 
+            xmax = 8382.229956776364 
+            text = "btbw" 
+        intervals [31]:
+            xmin = 8382.229956776364 
+            xmax = 8446.737256090291 
+            text = "" 
+        intervals [32]:
+            xmin = 8446.737256090291 
+            xmax = 8448.157773757648 
+            text = "btbw" 
+        intervals [33]:
+            xmin = 8448.157773757648 
+            xmax = 8664.786261451782 
+            text = "" 
+        intervals [34]:
+            xmin = 8664.786261451782 
+            xmax = 8665.29280263549 
+            text = "bhvi" 
+        intervals [35]:
+            xmin = 8665.29280263549 
+            xmax = 9668.27905314353 
+            text = "" 
+        intervals [36]:
+            xmin = 9668.27905314353 
+            xmax = 9671.05401788906 
+            text = "oven" 
+        intervals [37]:
+            xmin = 9671.05401788906 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 21.471654816842847 
+            text = "" 
+        intervals [2]:
+            xmin = 21.471654816842847 
+            xmax = 21.631325407359547 
+            text = "gcki" 
+        intervals [3]:
+            xmin = 21.631325407359547 
+            xmax = 667.673534799546 
+            text = "" 
+        intervals [4]:
+            xmin = 667.673534799546 
+            xmax = 668.3037782459076 
+            text = "heth" 
+        intervals [5]:
+            xmin = 668.3037782459076 
+            xmax = 9736.094362771406 
+            text = "" 
+        intervals [6]:
+            xmin = 9736.094362771406 
+            xmax = 9737.61398632253 
+            text = "bhvi" 
+        intervals [7]:
+            xmin = 9737.61398632253 
+            xmax = 10069.859409403178 
+            text = "" 
+        intervals [8]:
+            xmin = 10069.859409403178 
+            xmax = 10071.20284471649 
+            text = "bhvi" 
+        intervals [9]:
+            xmin = 10071.20284471649 
+            xmax = 10072.083785905548 
+            text = "" 
+        intervals [10]:
+            xmin = 10072.083785905548 
+            xmax = 10073.030797683785 
+            text = "heth" 
+        intervals [11]:
+            xmin = 10073.030797683785 
+            xmax = 10097.193010159148 
+            text = "" 
+        intervals [12]:
+            xmin = 10097.193010159148 
+            xmax = 10119.216539885589 
+            text = "bhvi" 
+        intervals [13]:
+            xmin = 10119.216539885589 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8651.764333782789 
+            text = "" 
+        intervals [2]:
+            xmin = 8651.764333782789 
+            xmax = 8671.308166360106 
+            text = "1" 
+        intervals [3]:
+            xmin = 8671.308166360106 
+            xmax = 9590.332919841492 
+            text = "" 
+        intervals [4]:
+            xmin = 9590.332919841492 
+            xmax = 9616.21056727006 
+            text = "1" 
+        intervals [5]:
+            xmin = 9616.21056727006 
+            xmax = 10060.74166809643 
+            text = "" 
+        intervals [6]:
+            xmin = 10060.74166809643 
+            xmax = 10086.641339054726 
+            text = "1" 
+        intervals [7]:
+            xmin = 10086.641339054726 
+            xmax = 12173.850702947846 
+            text = "" 

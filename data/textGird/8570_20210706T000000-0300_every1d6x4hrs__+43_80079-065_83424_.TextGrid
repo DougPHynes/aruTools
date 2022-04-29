@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12173.850702947846 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 697.9607790799671 
+            text = "" 
+        intervals [2]:
+            xmin = 697.9607790799671 
+            xmax = 698.9090817724974 
+            text = "grfr" 
+        intervals [3]:
+            xmin = 698.9090817724974 
+            xmax = 3895.9664260154377 
+            text = "" 
+        intervals [4]:
+            xmin = 3895.9664260154377 
+            xmax = 3902.3235662875863 
+            text = "oven" 
+        intervals [5]:
+            xmin = 3902.3235662875863 
+            xmax = 11709.326864813947 
+            text = "" 
+        intervals [6]:
+            xmin = 11709.326864813947 
+            xmax = 11712.083967086675 
+            text = "swsp" 
+        intervals [7]:
+            xmin = 11712.083967086675 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "    " 

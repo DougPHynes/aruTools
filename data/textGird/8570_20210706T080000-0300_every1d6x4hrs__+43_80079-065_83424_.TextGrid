@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12173.850702947846 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 121.25718393100001 
+            text = "" 
+        intervals [2]:
+            xmin = 121.25718393100001 
+            xmax = 123.00451944779171 
+            text = "pawa" 
+        intervals [3]:
+            xmin = 123.00451944779171 
+            xmax = 626.810337644717 
+            text = "" 
+        intervals [4]:
+            xmin = 626.810337644717 
+            xmax = 628.4259644542129 
+            text = "heth" 
+        intervals [5]:
+            xmin = 628.4259644542129 
+            xmax = 1838.289067680553 
+            text = "" 
+        intervals [6]:
+            xmin = 1838.289067680553 
+            xmax = 1840.1944536461 
+            text = "baww" 
+        intervals [7]:
+            xmin = 1840.1944536461 
+            xmax = 4618.601189860446 
+            text = "" 
+        intervals [8]:
+            xmin = 4618.601189860446 
+            xmax = 4620.5329175674515 
+            text = "btnw" 
+        intervals [9]:
+            xmin = 4620.5329175674515 
+            xmax = 7490.877794010568 
+            text = "" 
+        intervals [10]:
+            xmin = 7490.877794010568 
+            xmax = 7492.756838234656 
+            text = "swsp" 
+        intervals [11]:
+            xmin = 7492.756838234656 
+            xmax = 7493.678799185727 
+            text = "" 
+        intervals [12]:
+            xmin = 7493.678799185727 
+            xmax = 7495.628088053706 
+            text = "gcki" 
+        intervals [13]:
+            xmin = 7495.628088053706 
+            xmax = 10353.453967039404 
+            text = "" 
+        intervals [14]:
+            xmin = 10353.453967039404 
+            xmax = 10354.639345405067 
+            text = "coye" 
+        intervals [15]:
+            xmin = 10354.639345405067 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1055.9106234160479 
+            text = "" 
+        intervals [2]:
+            xmin = 1055.9106234160479 
+            xmax = 1056.5296543403383 
+            text = "sosp" 
+        intervals [3]:
+            xmin = 1056.5296543403383 
+            xmax = 1843.149118979771 
+            text = "" 
+        intervals [4]:
+            xmin = 1843.149118979771 
+            xmax = 1843.7725401943048 
+            text = "heth" 
+        intervals [5]:
+            xmin = 1843.7725401943048 
+            xmax = 1896.4510445658686 
+            text = "" 
+        intervals [6]:
+            xmin = 1896.4510445658686 
+            xmax = 1897.0086114267547 
+            text = "recr" 
+        intervals [7]:
+            xmin = 1897.0086114267547 
+            xmax = 2001.4304883480813 
+            text = "" 
+        intervals [8]:
+            xmin = 2001.4304883480813 
+            xmax = 2001.8343950504552 
+            text = "unkn" 
+        intervals [9]:
+            xmin = 2001.8343950504552 
+            xmax = 2135.687052884734 
+            text = "" 
+        intervals [10]:
+            xmin = 2135.687052884734 
+            xmax = 2135.9812023310283 
+            text = "unkn" 
+        intervals [11]:
+            xmin = 2135.9812023310283 
+            xmax = 4469.367980136721 
+            text = "" 
+        intervals [12]:
+            xmin = 4469.367980136721 
+            xmax = 4483.48715355884 
+            text = "blja" 
+        intervals [13]:
+            xmin = 4483.48715355884 
+            xmax = 10311.269589055482 
+            text = "" 
+        intervals [14]:
+            xmin = 10311.269589055482 
+            xmax = 10311.467152116427 
+            text = "coye" 
+        intervals [15]:
+            xmin = 10311.467152116427 
+            xmax = 12021.749831320738 
+            text = "" 
+        intervals [16]:
+            xmin = 12021.749831320738 
+            xmax = 12022.566425305971 
+            text = "cedw" 
+        intervals [17]:
+            xmin = 12022.566425305971 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Age" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12173.850702947846 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 12173.850702947846 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2001.0836554188688 
+            text = "" 
+        intervals [2]:
+            xmin = 2001.0836554188688 
+            xmax = 2006.3959066131358 
+            text = "1" 
+        intervals [3]:
+            xmin = 2006.3959066131358 
+            xmax = 4468.946512273374 
+            text = "" 
+        intervals [4]:
+            xmin = 4468.946512273374 
+            xmax = 4518.152885319118 
+            text = "1" 
+        intervals [5]:
+            xmin = 4518.152885319118 
+            xmax = 10353.348600073567 
+            text = "	" 
+        intervals [6]:
+            xmin = 10353.348600073567 
+            xmax = 10354.83690846601 
+            text = "1" 
+        intervals [7]:
+            xmin = 10354.83690846601 
+            xmax = 12173.850702947846 
+            text = "" 

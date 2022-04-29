@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2221.1279818594103 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Song" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1717.3042320157494 
+            text = "" 
+        intervals [2]:
+            xmin = 1717.3042320157494 
+            xmax = 1720.2632876396635 
+            text = "oven" 
+        intervals [3]:
+            xmin = 1720.2632876396635 
+            xmax = 1892.2832555152704 
+            text = "" 
+        intervals [4]:
+            xmin = 1892.2832555152704 
+            xmax = 1896.3267128292541 
+            text = "resq" 
+        intervals [5]:
+            xmin = 1896.3267128292541 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Call" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 956.1021481774417 
+            text = "" 
+        intervals [2]:
+            xmin = 956.1021481774417 
+            xmax = 966.8847010147317 
+            text = "rbnu" 
+        intervals [3]:
+            xmin = 966.8847010147317 
+            xmax = 968.4652055022824 
+            text = "" 
+        intervals [4]:
+            xmin = 968.4652055022824 
+            xmax = 969.7647314142686 
+            text = "bcch" 
+        intervals [5]:
+            xmin = 969.7647314142686 
+            xmax = 1506.5743324552302 
+            text = "" 
+        intervals [6]:
+            xmin = 1506.5743324552302 
+            xmax = 1507.575318630679 
+            text = "caja" 
+        intervals [7]:
+            xmin = 1507.575318630679 
+            xmax = 2193.944428667882 
+            text = "" 
+        intervals [8]:
+            xmin = 2193.944428667882 
+            xmax = 2194.9805371652765 
+            text = "amro" 
+        intervals [9]:
+            xmin = 2194.9805371652765 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Non-vocal" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2221.1279818594103 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Quality" 
+        xmin = 0 
+        xmax = 2221.1279818594103 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1717.3305737572086 
+            text = "" 
+        intervals [2]:
+            xmin = 1717.3305737572086 
+            xmax = 1720.1974332860157 
+            text = "1" 
+        intervals [3]:
+            xmin = 1720.1974332860157 
+            xmax = 1892.3600855945263 
+            text = "" 
+        intervals [4]:
+            xmin = 1892.3600855945263 
+            xmax = 1896.2147604280526 
+            text = "1" 
+        intervals [5]:
+            xmin = 1896.2147604280526 
+            xmax = 2221.1279818594103 
+            text = "" 
